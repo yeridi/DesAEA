@@ -1,0 +1,12 @@
+C:\Users\Yeridi Crhis\source\repos\Lab02-01\Lab02-01\bin\Debug\Lab02-01.exe.config
+C:\Users\Yeridi Crhis\source\repos\Lab02-01\Lab02-01\bin\Debug\Lab02-01.exe
+C:\Users\Yeridi Crhis\source\repos\Lab02-01\Lab02-01\bin\Debug\Lab02-01.pdb
+C:\Users\Yeridi Crhis\source\repos\Lab02-01\Lab02-01\obj\Debug\Lab02-01.csproj.AssemblyReference.cache
+C:\Users\Yeridi Crhis\source\repos\Lab02-01\Lab02-01\obj\Debug\Lab02_01.frmLogin.resources
+C:\Users\Yeridi Crhis\source\repos\Lab02-01\Lab02-01\obj\Debug\Lab02_01.Properties.Resources.resources
+C:\Users\Yeridi Crhis\source\repos\Lab02-01\Lab02-01\obj\Debug\Lab02-01.csproj.GenerateResource.cache
+C:\Users\Yeridi Crhis\source\repos\Lab02-01\Lab02-01\obj\Debug\Lab02-01.csproj.CoreCompileInputs.cache
+C:\Users\Yeridi Crhis\source\repos\Lab02-01\Lab02-01\obj\Debug\Lab02-01.exe
+C:\Users\Yeridi Crhis\source\repos\Lab02-01\Lab02-01\obj\Debug\Lab02-01.pdb
+C:\Users\Yeridi Crhis\source\repos\Lab02-01\Lab02-01\obj\Debug\Lab02_01.MantenimientoUsuario.resources
+C:\Users\Yeridi Crhis\source\repos\Lab02-01\Lab02-01\obj\Debug\Lab02_01.PrincipalMDI1.resources
